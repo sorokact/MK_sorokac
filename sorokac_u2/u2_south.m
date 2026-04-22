@@ -37,7 +37,7 @@ uk = alpha_s;
 vk = 36 * pi/180;
 uv = [-70*pi/180, 20*pi/180, -10*pi/180, 80*pi/180];
 
-% Boundary points (corrected variables)
+% Boundary points
 ub = [delta_s, gamma_s, gamma_s, delta_s, delta_n, delta_s];
 vb = [0, 0, 72*pi/180, 72*pi/180, 36*pi/180, 0];
 

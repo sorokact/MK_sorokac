@@ -43,8 +43,6 @@ hold on;
 axis equal;
 plot(XM', YM', 'k');
 plot(XP', YP', 'k');
-
-% Corrected plot variables from XC/YC to XB/YB
 plot(XB, YB, 'r', 'LineWidth', 3);
 
 end

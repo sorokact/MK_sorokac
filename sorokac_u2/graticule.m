@@ -1,5 +1,5 @@
 function [XM, YM, XP, YP] = graticule(umin, umax, vmin, vmax, Du, Dv, du, dv, R, uk, vk, u0, proj)
-    %Create graticule: list of meridians and parallels
+    %Create graticule
     
     %Create list of meridians
     XM = []; YM = [];
